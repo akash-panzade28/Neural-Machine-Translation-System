@@ -1,2 +1,1 @@
-# Neural-Machine-Translation-System
-Neural Machine Translation System
+# Machine-translation-Hindi-to-English
